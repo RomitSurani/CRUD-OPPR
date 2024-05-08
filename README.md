@@ -1,2 +1,5 @@
 # CRUD-OPPR
-THIS PHP CRUD OPRETION
+THIS IS PHP CRUD OPRETION . 
+ADD DATABASE db_practice .
+Auther - romit surani
+
