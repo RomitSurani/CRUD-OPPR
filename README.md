@@ -2,7 +2,7 @@
 <br>
 THIS IS PHP CRUD OPRETION . 
 <br>
-ADD DATABASE db_practice .
+ADD DATABASE : db_practice AND TABLE : tbl_form in database.
 <br>
 STEP 1 : YOU HAVE TO REGISTER AT FIRST TIME
 <br>
